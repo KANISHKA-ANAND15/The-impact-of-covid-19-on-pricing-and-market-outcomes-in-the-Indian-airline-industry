@@ -1,2 +1,2 @@
 # The-impact-of-covid-19-on-pricing-and-market-outcomes-in-the-Indian-airline-industry
-The impact of covid-19 on pricing and market outcomes in the Indian airline industry 
+this is my first project on github. the description of the topic can be assesing how The COVID-19 pandemic disrupted the global aviation sector, and India’s airlines were no exception. In this project, we delve into the effects of the pandemic on ticket prices, passenger demand, and overall market dynamics within the Indian airline industry. By analyzing data and trends, we aim to uncover valuable insights that shed light on the challenges faced by airlines during this unprecedented time
